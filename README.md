@@ -24,3 +24,5 @@ KPIs & Metrics: Highlights key insights such as average daily admissions and pea
 Download the .pbix file from this repository.
 Open it using Power BI Desktop.
 Explore the dashboard using filters and visualizations.
+
+
